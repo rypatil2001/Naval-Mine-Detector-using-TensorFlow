@@ -6,12 +6,12 @@ As opposed to the majority of techniques, several Neural-network-based methods f
 Detection and classification of underwater objects in sonar imagery was a complicated problem, due to various factors such as variations in operating and environmental conditions, the presence of spatially varying clutter, and variations in target shapes, compositions, and orientation.
 By using the concept of Deep Learning with Neural network we predicted whether the object is Mine or not.
 
-##The code  for Naval Mine Detector uses the following libraries
+Libraries used :
 
-sklearn for splitting the data into training and testing data, and for label encoding
+  -sklearn for splitting the data into training and testing data, and for label encoding
 
-pandas for reading the sonar.csv dataset
+  -pandas for reading the sonar.csv dataset
 
-matplotlib for plotting and
+  -matplotlib for plotting and
 
-tensorflow as the base ML library
+  -tensorflow as the base ML library

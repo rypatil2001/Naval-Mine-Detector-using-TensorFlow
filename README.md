@@ -6,7 +6,7 @@ As opposed to the majority of techniques, several Neural-network-based methods f
 Detection and classification of underwater objects in sonar imagery was a complicated problem, due to various factors such as variations in operating and environmental conditions, the presence of spatially varying clutter, and variations in target shapes, compositions, and orientation.
 By using the concept of Deep Learning with Neural network we predicted whether the object is Mine or not.
 
-Libraries used :
+## Libraries used :
 
   -sklearn for splitting the data into training and testing data, and for label encoding
 

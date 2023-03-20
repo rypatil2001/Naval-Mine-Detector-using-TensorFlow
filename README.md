@@ -3,6 +3,7 @@
 
 
 Technology : Deep Learning with Neural network using Python
+
 Description :
 ### Hunting Naval Mines with Deep Learning
 Mine detection and classification using side scan sonar imagery was a challenging problem.
